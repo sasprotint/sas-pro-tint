@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sasprotint.github.io/sas-pro-tint/sitemap.xml
